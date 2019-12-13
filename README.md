@@ -1,2 +1,1 @@
-![GitHub Logo](/starwars.png)
-Format: ![Alt Text](url)
+![Star Wars Scene](/starwars.png)
